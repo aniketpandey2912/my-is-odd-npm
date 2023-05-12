@@ -1,5 +1,5 @@
 {
-  "name": "is-odd",
+  "name": "is-odd-or-not",
   "version": "1.0.0",
   "description": "\"to check a integer is odd or not",
   "main": "index.js",
