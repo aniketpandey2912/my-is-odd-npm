@@ -1,0 +1,19 @@
+{
+  "name": "is-odd",
+  "version": "1.0.0",
+  "description": "\"to check a integer is odd or not",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aniketpandey2912/my-is-odd-npm.git"
+  },
+  "author": "aniketpandey2912",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aniketpandey2912/my-is-odd-npm/issues"
+  },
+  "homepage": "https://github.com/aniketpandey2912/my-is-odd-npm#readme"
+}
